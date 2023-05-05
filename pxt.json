@@ -1,5 +1,5 @@
 {
-    "name": "pxt-ubit-extension",
+    "name": "pxt-ubit-acclogger",
     "description": "",
     "dependencies": {
         "core": "*"
@@ -10,6 +10,8 @@
         "shims.d.ts",
         "custom.ts",
         "custom.cpp",
+        "lib/AccelerometerLogger.h",
+        "lib/AccelerometerLogger.cpp",
         "lib/customlib.h",
         "lib/customlib.cpp"
     ],
